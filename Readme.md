@@ -35,10 +35,26 @@ The lectures are based primarily on, but not limited to, material from the Lectu
 ## 💾 2. Environment Setup <a name = "pc_setup"></a>
 ### 2.1 PC Setup
 #### 2.1.1 Personal PC Setup
-During this class, we are going to use [Ubuntu 22.04 LTS](https://ubuntu.com/download/desktop) as our main operating system. 
+Operating System - Ubuntu 
+During this class, we are going to use [Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop) as our main operating system. 
 
 - If you already have **Ubuntu 16.04** insteaded, it is *preferable* to upgrade to 18.04 but *not necessary* to do so. 
-- If you have a windows operating system, please follow [this link](https://www.youtube.com/watch?v=rJ9ysibH768) to install **virtual box + ubuntu** on your system.(replace ubuntu *20.04* with *22.04*)
+- If you have a windows operating system, please follow [this link](https://www.youtube.com/watch?v=DhVjgI57Ino) to install **virtual box + ubuntu** on your system.(Ubuntu 24.04 LTS )
+
+Development Environment 
+- Python – Programming language :
+    sudo apt update
+    sudo apt install python3 python3-pip
+
+- pip – Python package manager (usually comes with Python)
+
+- Visual Studio Code – Code editor
+    sudo snap install --classic code
+      Or download from VS Code website (https://code.visualstudio.com/Download)
+
+- Arduino IDE – Microcontroller programming environment
+    sudo snap install arduino
+      Or download from Arduino website (https://www.arduino.cc/en/software)
 
 ## ✍️ 3. Notes <a name = "notes"></a>
 
